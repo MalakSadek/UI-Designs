@@ -1,7 +1,12 @@
 # UI Designs
 A collection of Adobe XD files showing UI designs for mobile application and websites 📱 🎨 (2019).
 
-Images of the designs as well as video walkthroughs can be found here: https://malaksadek.wordpress.com/2020/05/14/ui-ux-designs/
+* Dishday Cooking Mobile Application
+* Orange Telecom Website Redesign (Mobile & Desktop)
+* Movie Streaming Website
+
+Images of the designs as well as video walkthroughs can be found here: 
+https://malaksadek.wordpress.com/2020/05/14/ui-ux-designs/
 
 # Contact
 
