@@ -12,7 +12,7 @@ https://malaksadek.wordpress.com/2020/05/14/ui-ux-designs/
 
 * email: mfzs1@st-andrews.ac.uk
 * LinkedIn: www.linkedin.com/in/malak-sadek-17aa65164/
-* website: https://malaksadek.wordpress.com/
+* website: http://malaksadekapps.com/
 
 
 
